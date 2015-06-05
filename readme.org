@@ -1,0 +1,10 @@
+* React Counter
+A division of YOLO Counter Industries.
+* Development
+** Run the server
+#+BEGIN_SRC sh
+  $ ruby server.rb
+
+#+END_SRC
+** Open the index page
+Visit =http://localhost:3000/= in your browser.
