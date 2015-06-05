@@ -3,10 +3,10 @@ var App = React.createClass({
     return {counter: 0};
   },
   incCounter: function() {
-    this.setState({counter: (this.state.counter + 1)})
+    this.setState({counter: (this.state.counter + 1)});
   },
   decCounter: function() {
-    this.setState({counter: (this.state.counter - 1)})
+    this.setState({counter: (this.state.counter - 1)});
   },
   render: function() {
     return (
